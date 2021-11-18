@@ -30,8 +30,8 @@ body {
   background-repeat: no-repeat;
   background-position: 50rem 20rem, -20rem -30rem;
   background-attachment: fixed;
-  -webkit-box-shadow: 5px 10px;
-          box-shadow: 5px 10px;
+/*   -webkit-box-shadow: 5px 10px;
+          box-shadow: 5px 10px; */
 }
 
 .card {
